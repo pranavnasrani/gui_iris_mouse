@@ -132,7 +132,7 @@ while running:
     pygame.display.flip()
 
     # Wait for a half second so eyes can adjust.
-    pygame.time.wait(800)
+    pygame.time.wait(950)
     # Capture eyes image
     eyes = scan()
 
