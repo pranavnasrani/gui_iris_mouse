@@ -1,6 +1,7 @@
 import sys
 import tkinter
 from tkinter import filedialog
+import os
 
 import cv2
 import keyboard
